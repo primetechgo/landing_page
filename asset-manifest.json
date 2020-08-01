@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/primetechgo/static/css/main.692d75bb.chunk.css",
-    "main.js": "/primetechgo/static/js/main.db5c1ede.chunk.js",
-    "main.js.map": "/primetechgo/static/js/main.db5c1ede.chunk.js.map",
-    "runtime~main.js": "/primetechgo/static/js/runtime~main.6bec7511.js",
-    "runtime~main.js.map": "/primetechgo/static/js/runtime~main.6bec7511.js.map",
-    "static/js/2.c94d86b5.chunk.js": "/primetechgo/static/js/2.c94d86b5.chunk.js",
-    "static/js/2.c94d86b5.chunk.js.map": "/primetechgo/static/js/2.c94d86b5.chunk.js.map",
-    "index.html": "/primetechgo/index.html",
-    "precache-manifest.19aa6796b8cae82ee32687e391110821.js": "/primetechgo/precache-manifest.19aa6796b8cae82ee32687e391110821.js",
-    "service-worker.js": "/primetechgo/service-worker.js",
-    "static/css/main.692d75bb.chunk.css.map": "/primetechgo/static/css/main.692d75bb.chunk.css.map",
-    "static/media/logo.svg": "/primetechgo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.692d75bb.chunk.css",
+    "main.js": "/static/js/main.29d5b1b1.chunk.js",
+    "main.js.map": "/static/js/main.29d5b1b1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c94d86b5.chunk.js": "/static/js/2.c94d86b5.chunk.js",
+    "static/js/2.c94d86b5.chunk.js.map": "/static/js/2.c94d86b5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.92be6bf2599e7648a256c1e6b3935a3b.js": "/precache-manifest.92be6bf2599e7648a256c1e6b3935a3b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.692d75bb.chunk.css.map": "/static/css/main.692d75bb.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
